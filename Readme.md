@@ -1,4 +1,4 @@
-PS：多人联机不能重名，Windows Only
+release中有打包好的程序
 
 完成内容：
 
