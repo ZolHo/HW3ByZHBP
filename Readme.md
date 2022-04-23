@@ -1,4 +1,5 @@
-release中有打包好的程序
+**release中有打包好的程序**
+[两分钟流程演示视频](https://www.bilibili.com/video/BV133411M71S)
 
 完成内容：
 
